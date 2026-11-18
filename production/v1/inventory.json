@@ -33,7 +33,7 @@
             "id": "5",
             "url": "https://canvatechstudio.com/Mosaic-Templates/templates/5.png",
             "appleProductId": "",
-            "sha256": "7nc07YwacCPT9WAzxMl9PFwrGbuBrtyN_s4smtSQgzA"
+            "sha256": "mMbnhUP-SvGTFnWXJ2jP5UtvV1MZK5fw2GPfK9ljQfs"
         },
         {
             "name": "template-6",
@@ -54,22 +54,35 @@
             "id": "8",
             "url": "https://canvatechstudio.com/Mosaic-Templates/templates/8.png",
             "appleProductId": "",
-            "sha256": "hOgk83YEaYoAZtn8CGV1oAuTTABptNMrPhNzLcmmZxY"
+            "sha256": "HznBCLsYJjPU4aWddjgRs_x4T2Xt9Tg4ZHppE4H7bdA"
         },
         {
             "name": "template-9",
             "id": "9",
             "url": "https://canvatechstudio.com/Mosaic-Templates/templates/9.png",
             "appleProductId": "",
-            "sha256": "WFL9M92qcq_KE3O2Jdd1Nw9HjM4IarvKBSNrWQHwfpw"
-        }
-        ,
+            "sha256": "RwOjZFcBKtnghq1wBSE3UZyVJXXI8iTrC_nX8u_CWKk"
+        },
         {
             "name": "template-10",
             "id": "10",
             "url": "https://canvatechstudio.com/Mosaic-Templates/templates/10.png",
             "appleProductId": "",
-            "sha256": "8lONH8BZRQeRMWtbLwc3j1oUq1KkkPGEQ14CzawGeKs"
+            "sha256": "1J3wcesjQAVL9OS7FBBAl0xN3o4cXqC3M1eu1r08Txw"
+        },
+        {
+            "name": "template-11",
+            "id": "11",
+            "url": "https://canvatechstudio.com/Mosaic-Templates/templates/11.png",
+            "appleProductId": "",
+            "sha256": "FAgEqzWfDkaeLAViA7QpIlbd7OOsbPPM1nJgB4_88us"
+        },
+        {
+            "name": "template-12",
+            "id": "12",
+            "url": "https://canvatechstudio.com/Mosaic-Templates/templates/12.png",
+            "appleProductId": "",
+            "sha256": "z-ENRyH_5JMhdn_lHdDVm68ZwiudIneNqjvi5-D_yp8"
         }
     ]
 }
